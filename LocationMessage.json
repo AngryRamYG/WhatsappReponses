@@ -1,0 +1,43 @@
+﻿{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "104404085772527",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "96181289370",
+              "phone_number_id": "110279391841940"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "✝️"
+                },
+                "wa_id": "96170652549"
+              }
+            ],
+            "messages": [
+              {
+                "from": "96170652549",
+                "id": "wamid.HBgLOTYxNzA2NTI1NDkVAgASGCA5RjBBQTZCMUYwNkI2NzM2OEJEMzNEM0NBMEQ2QTEzMAA=",
+                "timestamp": "1673387095",
+                "location": {
+                  "address": "Baabda, Mt Lebanon",
+                  "latitude": 33.832398137196,
+                  "longitude": 35.541933073733,
+                  "name": "LibanPost",
+                  "url": "http://www.libanpost.com.lb"
+                },
+                "type": "location"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}

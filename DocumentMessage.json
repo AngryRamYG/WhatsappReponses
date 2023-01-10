@@ -1,0 +1,42 @@
+﻿{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "104404085772527",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "96181289370",
+              "phone_number_id": "110279391841940"
+            },
+            "contacts": [
+              {
+                "profile": {
+                  "name": "✝️"
+                },
+                "wa_id": "96170652549"
+              }
+            ],
+            "messages": [
+              {
+                "from": "96170652549",
+                "id": "wamid.HBgLOTYxNzA2NTI1NDkVAgASGCA4QzY3MzFCMzMyMjZDNUEwNkJBNTk5MDFGQjdGOEZCNwA=",
+                "timestamp": "1673386167",
+                "type": "document",
+                "document": {
+                  "filename": "Scavenger Hunt.docx",
+                  "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "sha256": "Nbf1xQrJRdDAfTDGtbw8aYhwSfFJX5fJGmptJsVhcd0=",
+                  "id": "3465550587050507"
+                }
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}
